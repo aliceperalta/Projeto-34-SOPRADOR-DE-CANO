@@ -27,6 +27,7 @@ function setup() {
 button.position(20,30);
 button.size(50,50);
 
+/*ESCOLHA UM DOS CÓDIGOS DE BUTTON E RETIRE O "//" DELE */
 
 // buttonmouseClicked(blow);
 
@@ -49,6 +50,10 @@ function draw() {
 }
 
 function blow() {
+  
+  
+/*ESCOLHA UM DOS CÓDIGOS DE MATTER PARA QUE A BOLA VÁ PARA CIMA E RETIRE O "//" DELE */
+  
   
   // Matter.Body.applyForce(ball.body, { x: 0, y: 0 }, { x: 0, y: -0.05 });
   
